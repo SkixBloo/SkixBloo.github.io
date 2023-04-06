@@ -1,2 +1,2 @@
-# Bluware.github.io Source Code
+# Bluware.github.io
 My website source code
