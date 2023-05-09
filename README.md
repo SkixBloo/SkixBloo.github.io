@@ -1,2 +1,4 @@
 # Bluware.github.io
-My website source code
+My personal website
+Html and Css code by: me
+Font Script by : Siddish Chavan
