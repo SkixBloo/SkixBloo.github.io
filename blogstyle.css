@@ -24,3 +24,12 @@ h1 {
     background-attachment: fixed;
     font-family: 'Comfortaa', Arial, Helvetica, sans-serif;
   } 
+h2 {
+  color: white;
+  font-size 30px;
+  font-family: 'comfortaa', Arial, Helvetica, sans-serif;
+}
+h5 {
+  color: white;
+  font-size 20px;
+  font-family: 'comfortaa', Arial, Helvetica, sans-serif;
