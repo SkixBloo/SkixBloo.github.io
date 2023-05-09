@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa&display=swap'); 
+h1 {
+    width: 100%;
+   background-color: black;
+    color: skyblue;
+    font-size: 30px;
+    font-weight: bold;
+    border: none;
+    border-radius: none;
+  margin: auto;
+    position:inherit;
+    
+  }
+  ul {   
+   list-style-type: none;
+  margin: auto;
+  padding: 0;
+  color: #FFFFFF;
+    background-color: #00FFFF;
+  }
+  body {
+    background: url('396815-wallpaper-starry-stars-night-sky-milky-way-anime.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+    font-family: 'Comfortaa', Arial, Helvetica, sans-serif;
+  } 
+p {
+    color: white;
+    font-size: 20px;
+    font-family: 'comfortaa', Arial, Helvetica, sans-serif;
+}
