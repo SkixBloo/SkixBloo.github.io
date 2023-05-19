@@ -32,4 +32,9 @@
 p {
   color: white;
   font-size: 30px;
-  font-family: 'comfortaa', Arial, Helvetice, sans-serif;
+  font-family: 'comfortaa', Arial, Helvetica, sans-serif;
+}
+li {
+  color: white;
+  font-size: 20px;
+  font-family: 'comfortaa', Arial, Helvetica, sans-serif;
