@@ -1,2 +1,2 @@
-# Bluware.github.io
+# SkixBloo.github.io
 My personal website!
