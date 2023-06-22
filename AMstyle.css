@@ -60,3 +60,9 @@ li a:hover:not(.active) {
 .active {
   background-color: #00FFFF;
 }
+li {
+  color: white;
+  font-size: 20px;
+  font-family: 'comfortaa', Arial, Helvetica, sans-serif;
+ float: left;
+}
