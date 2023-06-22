@@ -17,11 +17,6 @@
     font-family: 'Comfortaa', Arial, Helvetica, sans-serif;
     cursor: url("https://rc24.xyz/images/cursors/wii.cur"), default;
   } 
-  iframe {
-  border-radius: 10px;
-  margin: auto;
-  position: right;
-}
 p {
   color: white;
   font-size: 30px;
@@ -32,6 +27,7 @@ li {
   font-size: 20px;
   font-family: 'comfortaa', Arial, Helvetica, sans-serif;
  float: left;
+  cursor: url("https://rc24.xyz/images/cursors/wii.cur"), default;
 }
   marquee {
     color: white;
