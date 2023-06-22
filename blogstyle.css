@@ -11,13 +11,6 @@ h1 {
     position:inherit;
     
   }
-  ul {   
-   list-style-type: none;
-  margin: auto;
-  padding: 0;
-  color: #FFFFFF;
-    background-color: #00FFFF;
-  }
   body {
     background: url('396815-wallpaper-starry-stars-night-sky-milky-way-anime.jpg');
     background-size: cover;
@@ -38,4 +31,28 @@ p {
     color: white;
     font-size: 20px;
     font-family: 'comfortaa', Arial, Helvetica, sans-serif;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #0000FF;
+}
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+   font-family: 'comfortaa', Arial, Helvetica, sans-serif;
+}
+
+li a:hover:not(.active) {
+  background-color: #00FFFF;
+   font-family: 'comfortaa', Arial, Helvetica, sans-serif;
+}
+
+.active {
+  background-color: #00FFFF;
 }
