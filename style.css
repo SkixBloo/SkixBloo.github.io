@@ -37,6 +37,7 @@ ul {
   padding: 0;
   overflow: hidden;
   background-color: #0000FF;
+    cursor: url("https://rc24.xyz/images/cursors/wii.cur"), default;
 }
 li a {
   display: block;
@@ -45,11 +46,13 @@ li a {
   padding: 14px 16px;
   text-decoration: none;
    font-family: 'comfortaa', Arial, Helvetica, sans-serif;
+    cursor: url("https://rc24.xyz/images/cursors/wii.cur"), default;
 }
 
 li a:hover:not(.active) {
   background-color: #00FFFF;
    font-family: 'comfortaa', Arial, Helvetica, sans-serif;
+    cursor: url("https://rc24.xyz/images/cursors/wii.cur"), default;
 }
 
 .active {
@@ -60,6 +63,7 @@ li {
   font-size: 20px;
   font-family: 'comfortaa', Arial, Helvetica, sans-serif;
  float: left;
+    cursor: url("https://rc24.xyz/images/cursors/wii.cur"), default;
 }
 html {
 cursor: url("https://rc24.xyz/images/cursors/wii.cur"), default;
