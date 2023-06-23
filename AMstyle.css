@@ -55,6 +55,7 @@ li a:hover:not(.active) {
   background-color: #00FFFF;
    font-family: 'comfortaa', Arial, Helvetica, sans-serif;
     cursor: url("https://rc24.xyz/images/cursors/wii.cur"), default;
+    color: black;
 }
 
 .active {
