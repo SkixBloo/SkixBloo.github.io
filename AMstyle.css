@@ -75,3 +75,6 @@ marquee {
     color: white;
     font-family: 'comfortaa', Arial, Helvetica, sans-serif;
     font-size: 40px;
+    }
+html {
+    cursor: url("https://rc24.xyz/images/cursors/wii.cur"), default;
