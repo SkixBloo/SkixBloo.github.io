@@ -67,3 +67,11 @@ li {
  float: left;
     cursor: url("https://rc24.xyz/images/cursors/wii.cur"), default;
 }
+marquee {
+    color: white;
+    font-size: 30px;
+}
+#clock {
+    color: white;
+    font-family: 'comfortaa', Arial, Helvetica, sans-serif;
+    font-size: 40px;
