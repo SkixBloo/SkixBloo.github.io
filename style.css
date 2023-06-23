@@ -63,3 +63,7 @@ li {
 }
 html {
 cursor: url("https://rc24.xyz/images/cursors/wii.cur"), default;
+}
+marquee {
+    color: white;
+    font-size: 30px;
