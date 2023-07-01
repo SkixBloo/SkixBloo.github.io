@@ -78,6 +78,8 @@ marquee {
       }
       img {
         vertical-align: middle;
+    max-width: 100%;  
+height: auto;  
       }
       .slideshow-container {
         max-width: 1000px;
