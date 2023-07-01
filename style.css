@@ -15,6 +15,8 @@ h1 {
     background-size: cover;
     background-attachment: fixed;
     font-family: 'Comfortaa', Arial, Helvetica, sans-serif;
+      opacity: 0;
+            transition: opacity 3s;
   } 
 h2 {
   color: white;
