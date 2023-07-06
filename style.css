@@ -12,7 +12,9 @@ h1 {
     font-family: 'Comfortaa', Arial, Helvetica, sans-serif;
   }
   body {
-    background: url('396815-wallpaper-starry-stars-night-sky-milky-way-anime.jpg');
+  height: calc(100vh - 8em);
+  padding: 4em;
+      background: url('396815-wallpaper-starry-stars-night-sky-milky-way-anime.jpg');
     background-size: cover;
     background-attachment: fixed;
     font-family: 'Comfortaa', Arial, Helvetica, sans-serif;
@@ -69,6 +71,8 @@ li {
 }
 html {
 cursor: url("https://rc24.xyz/images/cursors/wii.cur"), default;
+     min-height: 100%;
+  overflow: hidden;
 }
 marquee {
     color: white;
