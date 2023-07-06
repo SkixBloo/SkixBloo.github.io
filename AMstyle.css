@@ -9,7 +9,6 @@ h1 {
     border-radius: none;
   margin: auto;
     position:inherit;
-    
   }
   body {
     background: url('396815-wallpaper-starry-stars-night-sky-milky-way-anime.jpg');
@@ -50,14 +49,12 @@ li a {
    font-family: 'comfortaa', Arial, Helvetica, sans-serif;
     cursor: url("https://rc24.xyz/images/cursors/wii.cur"), default;
 }
-
 li a:hover:not(.active) {
   background-color: #00FFFF;
    font-family: 'comfortaa', Arial, Helvetica, sans-serif;
     cursor: url("https://rc24.xyz/images/cursors/wii.cur"), default;
     color: black;
 }
-
 .active {
   background-color: #00FFFF;
 }
