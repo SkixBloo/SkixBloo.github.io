@@ -80,6 +80,7 @@ marquee {
     }
 html {
     cursor: url("https://rc24.xyz/images/cursors/wii.cur"), default;
+     overflow: hidden;
     }
 .line-1{
     position: relative;
