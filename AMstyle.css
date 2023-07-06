@@ -17,7 +17,6 @@ h1 {
     background-attachment: fixed;
     font-family: 'Comfortaa', Arial, Helvetica, sans-serif;
       cursor: url("https://rc24.xyz/images/cursors/wii.cur"), default;
-      padding: 4em;
   } 
 h2 {
   color: white;
@@ -80,7 +79,6 @@ marquee {
     }
 html {
     cursor: url("https://rc24.xyz/images/cursors/wii.cur"), default;
-     overflow: hidden;
     }
 .line-1{
     position: relative;
@@ -93,17 +91,4 @@ html {
     white-space: nowrap;
     overflow: hidden;
     transform: translateY(-50%);    
-}
-/* Animation */
-.anim-typewriter{
-  animation: typewriter 4s steps(44) 1s 1 normal both,
-             blinkTextCursor 500ms steps(44) infinite normal;
-}
-@keyframes typewriter{
-  from{width: 0;}
-  to{width: 24em;}
-}
-@keyframes blinkTextCursor{
-  from{border-right-color: rgba(255,255,255,.75);}
-  to{border-right-color: transparent;}
 }
