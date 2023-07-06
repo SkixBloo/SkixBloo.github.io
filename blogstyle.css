@@ -17,6 +17,7 @@ h1 {
     background-attachment: fixed;
     font-family: 'Comfortaa', Arial, Helvetica, sans-serif;
       cursor: url("https://rc24.xyz/images/cursors/wii.cur"), default;
+       padding: 4em;
   } 
 h2 {
   color: white;
@@ -71,6 +72,7 @@ li {
 }
 html {
     cursor: url("https://rc24.xyz/images/cursors/wii.cur"), default;
+    overflow: hidden;
 }
     .line-1{
     position: relative;
