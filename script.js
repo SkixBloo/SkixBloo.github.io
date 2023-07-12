@@ -7,3 +7,6 @@ request.onload = () => {
   } else {
     console.log(request)
     console.log(`error${request.status}`)
+
+  document.getElementById("followers")
+            .innerHTML = followers;
